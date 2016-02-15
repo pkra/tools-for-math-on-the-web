@@ -39,10 +39,10 @@ Some tools around math on the web
   * [katex](https://github.com/Khan/KaTeX)
   * [latex2mathml](https://pypi.python.org/pypi/latex2mathml/1.0.10) (Python)
 * visual
-  * [mathlib](http://mathlib.de/en)
-  * mathbox
-  * jsxmath
-  * http://js.cytoscape.org/
+  * [MathLib](https://github.com/alawatthe/MathLib)
+  * [mathbox](https://gitgud.io/unconed/mathbox)
+  * [jsxgraph](https://github.com/jsxgraph/jsxgraph) (geometry)
+  * [https://github.com/cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) (graph theory)
 * document editors with strong math component
   * [OERpub editor](http://oerpub.github.io/Aloha-Editor/) open source, Aloha-plugin, not quite wysiwyg, supported by OERpub, ConneXions and others.
   * [StackEdit](https://stackedit.io) In-browser Markdown Editor, with complete MathJax support.
