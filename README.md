@@ -15,6 +15,9 @@ Some tools around math on the web
   * [mathquill](https://github.com/mathquill/mathquill)
   * [fmath](http://www.fmath.info/)
   * [katex](https://github.com/Khan/KaTeX)
+* "equation" editing
+  * [fmath](http://www.fmath.info/)
+  * [mathquill](https://github.com/mathquill/mathquill)
   * [ckeditor mathjax latex plugin](http://ckeditor.com/addon/mathjax)
   * [equation editor](https://github.com/camdenre/equation-editor)
   * [Mathslate tinymce/moodle editor](https://github.com/dthies/moodle-editor_tinymce-mathslate), see also [this](https://moodle.org/mod/forum/discuss.php?d=255377). Not quite an "editor": [@efloti's tinymce plugin](https://github.com/efloti/plugin-mathjax-pour-tinymce), [@dthies's tinymce plugin](https://github.com/dthies/tinymce4-mathslate).
@@ -38,11 +41,12 @@ Some tools around math on the web
   * [mathquill](https://github.com/mathquill/mathquill)
   * [katex](https://github.com/Khan/KaTeX)
   * [latex2mathml](https://pypi.python.org/pypi/latex2mathml/1.0.10) (Python)
-* visual
-  * [MathLib](https://github.com/alawatthe/MathLib)
+  * [fMath](http://fmath.info/)
+* Visual
   * [mathbox](https://gitgud.io/unconed/mathbox)
   * [jsxgraph](https://github.com/jsxgraph/jsxgraph) (geometry)
   * [https://github.com/cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) (graph theory)
+  * [MathLib](https://github.com/alawatthe/MathLib)
 * document editors with strong math component
   * [OERpub editor](http://oerpub.github.io/Aloha-Editor/) open source, Aloha-plugin, not quite wysiwyg, supported by OERpub, ConneXions and others.
   * [StackEdit](https://stackedit.io) In-browser Markdown Editor, with complete MathJax support.
