@@ -9,6 +9,7 @@ Some tools around math on the web
   * [numericJS](http://www.numericjs.com/)
   * [Sylvester](https://github.com/jcoglan/sylvester) vector, matrix and geometry library 
   * [MathLib](https://github.com/alawatthe/MathLib)
+  * [algebra.js](https://github.com/nicolewhite/algebra.js) Build&solve algebraic equations; includes LaTeX-like output to pass to renderer.
 * "equation" rendering on the web
   * [MathJax](https://github.com/mathjax/mathjax)
   * [jqmath](http://mathscribe.com/author/jqmath.html) 
