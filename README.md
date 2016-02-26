@@ -31,14 +31,24 @@ Some tools around math on the web
      * [sharemath.com](http://sharemath.com) both MathML and TeX, Flash
      * [mathaway](https://mathway.com/) (internal format: TeX)
      * [latex4technics](http://www.latex4technics.com/)  (internal format: TeX)
-* Linear math input convertors (TeX-like, ascii-like)
-  * [MathJax](https://github.com/mathjax/mathjax)
-  * [AsciiMathML](https://github.com/asciimath/asciimathml/)
-  * [jqmath](http://mathscribe.com/author/jqmath.html) 
-  * [mathquill](https://github.com/mathquill/mathquill)
-  * [katex](https://github.com/Khan/KaTeX)
-  * [latex2mathml](https://pypi.python.org/pypi/latex2mathml/1.0.10) (Python)
-  * [fMath](http://fmath.info/)
+  * TeX-like (i.e., trying to be faithful to TeX)
+   * [MathJax](https://github.com/mathjax/mathjax)'s TeX input (direct successor of [jsmath](http://www.math.union.edu/~dpvc/jsMath/)).
+   * [mathquill](https://github.com/mathquill/mathquill)'s output
+   * [KaTeX]()
+* Linear input convertors
+  * TeX-like input (i.e., trying to be faithful)
+    * [MathJax](https://github.com/mathjax/mathjax)
+    * [iTeX](https://golem.ph.utexas.edu/~distler/blog/itex2MMLcommands.html)
+    * [mathquill](https://github.com/mathquill/mathquill)
+    * [katex](https://github.com/Khan/KaTeX)
+    * [latex2mathml](https://pypi.python.org/pypi/latex2mathml/1.0.10) (Python)
+    * [fMath](http://fmath.info/)
+  * ascii/unicode-focused
+    * [AsciiMathML](https://github.com/asciimath/asciimathml/)
+    * [jqmath](http://mathscribe.com/author/jqmath.html)
+    * [Microsoft Office linear format](https://support.office.com/en-us/article/Linear-format-equations-and-Math-AutoCorrect-in-Word-2E00618D-B1FD-49D8-8CB4-8D17F25754F8) (see also Murray Sargent's [blog post](http://blogs.msdn.com/b/murrays/archive/2006/09/13/752206.aspx) and [paper](http://www.unicode.org/notes/tn28/UTN28-PlainTextMath-v2.pdf))
+    * [CoffeeTeX](https://github.com/kasperpeulen/CoffeeTeX)
+
 * little helpers
   * [Instant Preview for HTML textareas](http://checkmyworking.com/2012/06/instant-mathjax-preview-of-latex-typed-into-html-textareas/) (works with tinymce)
 * Visual
