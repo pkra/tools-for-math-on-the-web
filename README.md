@@ -19,6 +19,7 @@ Some tools around math on the web
   * [fmath](http://www.fmath.info/)
   * [katex](https://github.com/Khan/KaTeX)
 * wysiwyg editors
+  * [DraftJS MathJax Plugin](https://github.com/efloti/draft-js-mathjax-plugin)
   * [fmath](http://www.fmath.info/)
   * [mathquill](https://github.com/mathquill/mathquill)
   * [ckeditor mathjax latex plugin](http://ckeditor.com/addon/mathjax)
