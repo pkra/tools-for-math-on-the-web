@@ -49,6 +49,8 @@ Some tools around math on the web
     * [fMath](http://fmath.info/)
   * ascii/unicode-focused
     * [AsciiMathML](https://github.com/asciimath/asciimathml/)
+      * [ascii2mathml](https://github.com/runarberg/ascii2mathml) 
+      * [asciimath2tex](https://github.com/christianp/asciimath2tex)
     * [jqmath](http://mathscribe.com/author/jqmath.html)
     * [Microsoft Office linear format](https://support.office.com/en-us/article/Linear-format-equations-and-Math-AutoCorrect-in-Word-2E00618D-B1FD-49D8-8CB4-8D17F25754F8) (see also Murray Sargent's [blog post](http://blogs.msdn.com/b/murrays/archive/2006/09/13/752206.aspx) and [paper](http://www.unicode.org/notes/tn28/UTN28-PlainTextMath-v2.pdf))
     * [CoffeeTeX](https://github.com/kasperpeulen/CoffeeTeX)
