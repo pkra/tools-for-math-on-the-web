@@ -66,6 +66,7 @@ Some tools around math on the web
   * [OERpub editor](http://oerpub.github.io/Aloha-Editor/) open source, Aloha-plugin, not quite wysiwyg, supported by OERpub, ConneXions and others.
   * [StackEdit](https://stackedit.io) In-browser Markdown Editor, with complete MathJax support.
 * OCR, handwriting recognition etc
+  * [mathcha.io](https://www.mathcha.io/) " Online Mathematics Editor" (noteworthy for diagram support)
   * [Seshat](https://github.com/falvaro/seshat) Handwritten math expression parser
   * [MyScript Web Equation](http://webdemo.myscript.com/#/demo/equation), using handwriting recognition, LaTeX, MathML output as well as Desmos and Wolfram Alpha integration. The technology can be integrated into iOS and Android apps, see [1](https://itunes.apple.com/app/myscript-mathpad/id674996719), [2](https://itunes.apple.com/us/app/math-ink/id596393352). 
 
