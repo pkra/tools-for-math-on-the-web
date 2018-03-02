@@ -12,6 +12,7 @@ Some tools around math on the web
   * [algebra.js](https://github.com/nicolewhite/algebra.js) Build&solve algebraic equations; includes LaTeX-like output to pass to renderer.
   * [algebrite](https://github.com/davidedc/Algebrite), CAS in JS
   * [simple-statistics](https://github.com/simple-statistics/simple-statistics), statistics in JS
+  * [stdlib](https://github.com/stdlib-js/stdlib) "stdlib is a standard library for JavaScript and Node.js, with an emphasis on numerical and scientific computing applications." 
 * "equation" rendering on the web
   * [MathJax](https://github.com/mathjax/mathjax)
   * [jqmath](http://mathscribe.com/author/jqmath.html) 
