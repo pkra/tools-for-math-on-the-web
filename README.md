@@ -13,6 +13,7 @@ Some tools around math on the web
   * [algebrite](https://github.com/davidedc/Algebrite), CAS in JS
   * [simple-statistics](https://github.com/simple-statistics/simple-statistics), statistics in JS
   * [stdlib](https://github.com/stdlib-js/stdlib) "stdlib is a standard library for JavaScript and Node.js, with an emphasis on numerical and scientific computing applications." 
+  * [propelML](http://propelml.org/) "Propel provides a GPU-backed numpy-like infrastructure for scientific computing in JavaScript."
 * "equation" rendering on the web
   * [MathJax](https://github.com/mathjax/mathjax)
   * [jqmath](http://mathscribe.com/author/jqmath.html) 
