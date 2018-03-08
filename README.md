@@ -60,6 +60,8 @@ Some tools around math on the web
 * little helpers
   * [Instant Preview for HTML textareas](http://checkmyworking.com/2012/06/instant-mathjax-preview-of-latex-typed-into-html-textareas/) (works with tinymce)
 * Visual
+  * [latex2js](https://github.com/pyramation/LaTeX2JS) pstricks+variables (cf. [mathapedia](http://www.mathapedia.com/) / latex2html])
+  * [unmaintained] [xyjax](https://sonoisa.github.io/xyjax/xyjax.html)
   * [mathbox](https://gitgud.io/unconed/mathbox)
   * [jsxgraph](https://github.com/jsxgraph/jsxgraph) (geometry)
   * [https://github.com/cytoscape/cytoscape.js](https://github.com/cytoscape/cytoscape.js) (graph theory)
