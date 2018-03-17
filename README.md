@@ -14,6 +14,7 @@ Some tools around math on the web
   * [simple-statistics](https://github.com/simple-statistics/simple-statistics), statistics in JS
   * [stdlib](https://github.com/stdlib-js/stdlib) "stdlib is a standard library for JavaScript and Node.js, with an emphasis on numerical and scientific computing applications." 
   * [propelML](http://propelml.org/) "Propel provides a GPU-backed numpy-like infrastructure for scientific computing in JavaScript."
+  * [math-expressions](https://github.com/kisonecat/math-expressions) "Math-expressions is client- or server-side JavaScript library for parse expressions like `sin^2 (x^3)` and do some basic computer algebra with them, like symbolic differentiation and numerically identifying equivalent expressions."
 * "equation" rendering on the web
   * [MathJax](https://github.com/mathjax/mathjax)
   * [jqmath](http://mathscribe.com/author/jqmath.html) 
