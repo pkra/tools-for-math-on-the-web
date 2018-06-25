@@ -80,3 +80,8 @@ Some tools around math on the web
 
 * fringe tools 
   * [pseudocode.js](https://github.com/tatetian/pseudocode.js), a JS library similar to the TeX package [algorithms](https://ctan.org/pkg/algorithms)
+  
+* not-actually-web tools
+  * [iosMath](https://github.com/kostub/iosMath) TeX equation renderer for iOS and MacOS.
+  * [CSharpMath](https://github.com/verybadcat/CSharpMath) C# port of iosMath.
+    
