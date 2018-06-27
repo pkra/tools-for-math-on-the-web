@@ -41,9 +41,8 @@ Some tools around math on the web
      * [sharemath.com](http://sharemath.com) both MathML and TeX, Flash
      * [mathaway](https://mathway.com/) (internal format: TeX)
      * [latex4technics](http://www.latex4technics.com/)  (internal format: TeX)
-  * TeX-like (i.e., trying to be faithful to TeX)
+* TeX-like output (i.e., trying to be faithful to Appendix G, TeX book)
    * [MathJax](https://github.com/mathjax/mathjax)'s TeX input (direct successor of [jsmath](http://www.math.union.edu/~dpvc/jsMath/)).
-   * [mathquill](https://github.com/mathquill/mathquill)'s output
    * [KaTeX]()
 * Linear input convertors
   * TeX-like input (i.e., trying to be faithful)
