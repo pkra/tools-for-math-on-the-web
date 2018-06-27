@@ -21,7 +21,8 @@ Some tools around math on the web
   * [mathquill](https://github.com/mathquill/mathquill)
   * [fmath](http://www.fmath.info/)
   * [katex](https://github.com/Khan/KaTeX)
-* wysiwyg editors etc
+* editors (wysiwyg etc)
+  * [mathlive](https://mathlive.io) 
   * [DraftJS MathJax Plugin](https://github.com/efloti/draft-js-mathjax-plugin)
   * [mathjax-editor](https://github.com/ianlucas/mathjax-editor)
   * [fmath](http://www.fmath.info/)
@@ -32,6 +33,7 @@ Some tools around math on the web
   * [fMath](http://fmath.info/), TeX, MathML, also image output; requires Flash, Java.
   * [Wiris](http://www.wiris.net/) both MathML and TeX, also image output
   * [Texthelp EquatIO](https://www.texthelp.com/en-us/products/equatio/), "easily add equations, formulas, graphs and more to g suite for education apps and microsoft word" (handwriting, speech, voicing in Read&Write using speech-rule-engine)
+  * [MathYlem](https://ylemkimon.github.io/mathylem/) 
   * other / need review
      * [formulasheet.com](http://formulasheet.com) unclear if available as plugin
      * [hostmath](http://hostmath.com) unclear if available as plugin
