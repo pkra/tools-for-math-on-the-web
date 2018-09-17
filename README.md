@@ -44,7 +44,7 @@ Some tools around math on the web
 * TeX-like output (i.e., trying to be faithful to Appendix G, TeX book)
    * [MathJax](https://github.com/mathjax/mathjax)'s TeX input (direct successor of [jsmath](http://www.math.union.edu/~dpvc/jsMath/)).
    * [KaTeX]()
-* Linear input convertors
+* equation input convertors
   * TeX-like input (i.e., trying to be faithful)
     * [MathJax](https://github.com/mathjax/mathjax)
     * [iTeX](https://golem.ph.utexas.edu/~distler/blog/itex2MMLcommands.html)
@@ -59,7 +59,11 @@ Some tools around math on the web
     * [jqmath](http://mathscribe.com/author/jqmath.html)
     * [Microsoft Office linear format](https://support.office.com/en-us/article/Linear-format-equations-and-Math-AutoCorrect-in-Word-2E00618D-B1FD-49D8-8CB4-8D17F25754F8) (see also Murray Sargent's [blog post](http://blogs.msdn.com/b/murrays/archive/2006/09/13/752206.aspx) and [paper](http://www.unicode.org/notes/tn28/UTN28-PlainTextMath-v2.pdf))
     * [CoffeeTeX](https://github.com/kasperpeulen/CoffeeTeX)
-
+  * textual descriptions
+    * MathML to textual descriptions [speech-rule-engine](https://github.com/zorkow/speech-rule-engine/), also part of the [MathJax Accessibility Extensions](https://docs.mathjax.org/en/latest/options/extensions/a11y-extensions.html#a11y-extensions).
+  * Braille
+    * MathML to Nemeth [speech-rule-engine](https://github.com/zorkow/speech-rule-engine/)
+    * MathML to Nemeth and back [MML2Nem](https://github.com/SusanJ/MML2Nem), [Baknem](https://github.com/SusanJ/Baknem)
 * little helpers
   * [Instant Preview for HTML textareas](http://checkmyworking.com/2012/06/instant-mathjax-preview-of-latex-typed-into-html-textareas/) (works with tinymce)
 * Visual
