@@ -60,10 +60,12 @@ Some tools around math on the web
     * [Microsoft Office linear format](https://support.office.com/en-us/article/Linear-format-equations-and-Math-AutoCorrect-in-Word-2E00618D-B1FD-49D8-8CB4-8D17F25754F8) (see also Murray Sargent's [blog post](http://blogs.msdn.com/b/murrays/archive/2006/09/13/752206.aspx) and [paper](http://www.unicode.org/notes/tn28/UTN28-PlainTextMath-v2.pdf))
     * [CoffeeTeX](https://github.com/kasperpeulen/CoffeeTeX)
   * textual descriptions
-    * MathML to textual descriptions [speech-rule-engine](https://github.com/zorkow/speech-rule-engine/), also part of the [MathJax Accessibility Extensions](https://docs.mathjax.org/en/latest/options/extensions/a11y-extensions.html#a11y-extensions).
+    * [speech-rule-engine](https://github.com/zorkow/speech-rule-engine/) for MathML to textual descriptions 
+      * also part of the [MathJax Accessibility Extensions](https://docs.mathjax.org/en/latest/options/extensions/a11y-extensions.html#a11y-extensions).
+     * [Aster](https://github.com/tvraman/aster-math) (for TeX documents)
   * Braille
-    * MathML to Nemeth [speech-rule-engine](https://github.com/zorkow/speech-rule-engine/)
-    * MathML to Nemeth and back [MML2Nem](https://github.com/SusanJ/MML2Nem), [Baknem](https://github.com/SusanJ/Baknem)
+    * [speech-rule-engine](https://github.com/zorkow/speech-rule-engine/): MathML to Nemeth 
+    * [MML2Nem](https://github.com/SusanJ/MML2Nem):  MathML to Nemeth (and back [Baknem](https://github.com/SusanJ/Baknem))
 * little helpers
   * [Instant Preview for HTML textareas](http://checkmyworking.com/2012/06/instant-mathjax-preview-of-latex-typed-into-html-textareas/) (works with tinymce)
 * Visual
