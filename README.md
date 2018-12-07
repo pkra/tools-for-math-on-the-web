@@ -35,13 +35,14 @@ Some tools around math on the web
   * [Wiris](http://www.wiris.net/) both MathML and TeX, also image output
   * [Texthelp EquatIO](https://www.texthelp.com/en-us/products/equatio/), "easily add equations, formulas, graphs and more to g suite for education apps and microsoft word" (handwriting, speech, voicing in Read&Write using speech-rule-engine)
   * [MathYlem](https://ylemkimon.github.io/mathylem/) 
+  * [guppy](https://github.com/daniel3735928559/guppy)
   * other / need review
      * [formulasheet.com](http://formulasheet.com) unclear if available as plugin
      * [hostmath](http://hostmath.com) unclear if available as plugin
      * [mathicando.com](http://www.mathicando.com/) MathML only, unclear if available as plugin
      * [sharemath.com](http://sharemath.com) both MathML and TeX, Flash
      * [mathaway](https://mathway.com/) (internal format: TeX)
-     * [latex4technics](http://www.latex4technics.com/)  (internal format: TeX)
+     * [latex4technics](http://www.latex4technics.com/)  (internal format: TeX) 
 * TeX-like output (i.e., trying to be faithful to Appendix G, TeX book)
    * [MathJax](https://github.com/mathjax/mathjax)'s TeX input (direct successor of [jsmath](http://www.math.union.edu/~dpvc/jsMath/)).
    * [KaTeX]()
