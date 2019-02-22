@@ -95,4 +95,4 @@ Some tools around math on the web
 * not-actually-web tools
   * [iosMath](https://github.com/kostub/iosMath) TeX equation renderer for iOS and MacOS.
   * [CSharpMath](https://github.com/verybadcat/CSharpMath) C# port of iosMath.
-    
+  * [iOSLaTeX](https://github.com/TeamSlader/iOSLaTeX), mathjax-based rendering for iOS apps.
