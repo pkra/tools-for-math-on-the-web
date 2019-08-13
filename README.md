@@ -81,6 +81,9 @@ Some tools around math on the web
   * [function-plot](https://github.com/maurizzzio/function-plot) "A 2d function plotter powered by D3"
   * [sigma.js](http://sigmajs.org/), "a JavaScript library dedicated to graph drawing. It makes easy to publish networks on Web pages, and allows developers to integrate network exploration in rich Web applications."
   * [pts](https://ptsjs.org/)"Pts enables you to compose and express what you see in your mind's eyes — points as ideas, shapes, colors, motions, interactions, and more."
+  * [jsx-tikzcd](https://github.com/yishn/jsx-tikzcd) tikzcd diagrams with JSX.
+  * [tikzcd-editor](https://github.com/yishn/tikzcd-editor) visual editor for tikzcd.
+  * [tikzjax](https://github.com/kisonecat/tikzjax) TikZ running under WebAssembly in the browser
 * document editors with strong math focus
   * [OERpub editor](http://oerpub.github.io/Aloha-Editor/) open source, Aloha-plugin, not quite wysiwyg, supported by OERpub, ConneXions and others.
   * [StackEdit](https://stackedit.io) In-browser Markdown Editor, with complete MathJax support.
