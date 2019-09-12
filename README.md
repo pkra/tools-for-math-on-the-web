@@ -69,9 +69,12 @@ Some tools around math on the web
     * [speech-rule-engine](https://github.com/zorkow/speech-rule-engine/): MathML to Nemeth 
     * [MML2Nem](https://github.com/SusanJ/MML2Nem):  MathML to Nemeth (and back [Baknem](https://github.com/SusanJ/Baknem))
     * [mathml2braille](https://github.com/civodulab/mathml2braille) JS, converts MathML to fr, nemeth or ueb.
+* Unicode authoring
+  * [tex-to-unicode browser extension](https://github.com/golopot/tex-to-unicode) (the underlying lib can be used separately)
+  * [unicodeIt](https://github.com/svenkreiss/unicodeit)
 * little helpers
   * [Instant Preview for HTML textareas](http://checkmyworking.com/2012/06/instant-mathjax-preview-of-latex-typed-into-html-textareas/) (works with tinymce)
-* Visual
+* drawing, plotting etc. 
   * [latex2js](https://github.com/pyramation/LaTeX2JS) pstricks+variables (cf. [mathapedia](http://www.mathapedia.com/) / latex2html])
   * [unmaintained] [xyjax](https://sonoisa.github.io/xyjax/xyjax.html)
   * [mathbox](https://gitgud.io/unconed/mathbox)
