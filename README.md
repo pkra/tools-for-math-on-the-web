@@ -104,3 +104,5 @@ Some tools around math on the web
 * content production tools
   * [mathtype (convertor)](https://github.com/jure/mathtype), ruby gem converting proprietary MathType binary equations into an XML form.
   * [math-api](https://github.com/chialab/math-api) REST API based on mathjax-node (serverless, AWS-ready)
+  * [mathjax-server](https://github.com/tiarno/mathjax-server) simple server front-end for mathjax-node
+  * [pb-mathjax](https://github.com/pressbooks/pb-mathjax), <q>a replacement for https://wp.com/latex.php but instead of LaTeX, it uses MathJax</q>.
