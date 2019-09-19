@@ -101,4 +101,6 @@ Some tools around math on the web
   * [CSharpMath](https://github.com/verybadcat/CSharpMath) C# port of iosMath.
   * [iOSLaTeX](https://github.com/TeamSlader/iOSLaTeX), mathjax-based rendering for iOS apps.
   * [mathtype_to_mathml](https://github.com/jure/mathtype_to_mathml), METF to MathML convertor
+* content production tools
   * [mathtype (convertor)](https://github.com/jure/mathtype), ruby gem converting proprietary MathType binary equations into an XML form.
+  * [math-api](https://github.com/chialab/math-api) REST API based on mathjax-node (serverless, AWS-ready)
