@@ -75,6 +75,8 @@ Some tools around math on the web
   * [unicodeIt](https://github.com/svenkreiss/unicodeit)
 * little helpers
   * [Instant Preview for HTML textareas](http://checkmyworking.com/2012/06/instant-mathjax-preview-of-latex-typed-into-html-textareas/) (works with tinymce)
+  * [TeX all the things](https://github.com/emichael/texthings), Chrome extension injecting MathJax
+  * []()
 * drawing, plotting etc. 
   * [latex2js](https://github.com/pyramation/LaTeX2JS) pstricks+variables (cf. [mathapedia](http://www.mathapedia.com/) / latex2html])
   * [unmaintained] [xyjax](https://sonoisa.github.io/xyjax/xyjax.html)
