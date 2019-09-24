@@ -76,7 +76,7 @@ Some tools around math on the web
 * little helpers
   * [Instant Preview for HTML textareas](http://checkmyworking.com/2012/06/instant-mathjax-preview-of-latex-typed-into-html-textareas/) (works with tinymce)
   * [TeX all the things](https://github.com/emichael/texthings), Chrome extension injecting MathJax
-  * []()
+  * [mathml-block](https://github.com/adamsilverstein/mathml-block), "A MathML block for the WordPress block editor (Gutenberg)" (but really a 'mathjax block' since MathML is neither used as in- or output).
 * drawing, plotting etc. 
   * [latex2js](https://github.com/pyramation/LaTeX2JS) pstricks+variables (cf. [mathapedia](http://www.mathapedia.com/) / latex2html])
   * [unmaintained] [xyjax](https://sonoisa.github.io/xyjax/xyjax.html)
