@@ -16,6 +16,7 @@ Some tools around math on the web
   * [propelML](http://propelml.org/) "Propel provides a GPU-backed numpy-like infrastructure for scientific computing in JavaScript."
   * [math-expressions](https://github.com/kisonecat/math-expressions) "Math-expressions is client- or server-side JavaScript library for parse expressions like `sin^2 (x^3)` and do some basic computer algebra with them, like symbolic differentiation and numerically identifying equivalent expressions."
   * [geometric](https://github.com/HarryStevens/geometric), "A JavaScript library for doing geometry." 
+  * [TheoremJS](https://github.com/arguiot/TheoremJS), "A Math library for computation in JavaScript"
 * "equation" rendering on the web
   * [MathJax](https://github.com/mathjax/mathjax)
   * [jqmath](http://mathscribe.com/author/jqmath.html) 
@@ -46,7 +47,7 @@ Some tools around math on the web
      * [latex4technics](http://www.latex4technics.com/)  (internal format: TeX) 
 * TeX-like output (i.e., trying to be faithful to Appendix G, TeX book)
    * [MathJax](https://github.com/mathjax/mathjax)'s TeX input (direct successor of [jsmath](http://www.math.union.edu/~dpvc/jsMath/)).
-   * [KaTeX]()
+   * [KaTeX](https://github.com/Khan/KaTeX/)
 * equation input convertors
   * TeX-like input (i.e., trying to be faithful)
     * [MathJax](https://github.com/mathjax/mathjax)
@@ -90,6 +91,7 @@ Some tools around math on the web
   * [jsx-tikzcd](https://github.com/yishn/jsx-tikzcd) tikzcd diagrams with JSX.
   * [tikzcd-editor](https://github.com/yishn/tikzcd-editor) visual editor for tikzcd.
   * [tikzjax](https://github.com/kisonecat/tikzjax) TikZ running under WebAssembly in the browser
+  * [Descartes](https://github.com/arguiot/Descartes), "A small plotting JavaScript library, made for TheoremJS"
 * document editors with strong math focus
   * [OERpub editor](http://oerpub.github.io/Aloha-Editor/) open source, Aloha-plugin, not quite wysiwyg, supported by OERpub, ConneXions and others.
   * [StackEdit](https://stackedit.io) In-browser Markdown Editor, with complete MathJax support.
