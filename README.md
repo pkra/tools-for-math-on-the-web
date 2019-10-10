@@ -17,14 +17,6 @@ Some tools around math on the web
   * [math-expressions](https://github.com/kisonecat/math-expressions) "Math-expressions is client- or server-side JavaScript library for parse expressions like `sin^2 (x^3)` and do some basic computer algebra with them, like symbolic differentiation and numerically identifying equivalent expressions."
   * [geometric](https://github.com/HarryStevens/geometric), "A JavaScript library for doing geometry." 
   * [TheoremJS](https://github.com/arguiot/TheoremJS), "A Math library for computation in JavaScript"
-* visual equation rendering on the web
-  * [MathJax](https://github.com/mathjax/mathjax)
-  * [jqmath](http://mathscribe.com/author/jqmath.html) 
-  * [mathquill](https://github.com/mathquill/mathquill)
-  * [fmath](http://www.fmath.info/)
-  * [mathematical](https://github.com/gjtorikian/mathematical) A wrapper around Lasem and mtex2MML to generate SVG, PNG, MathML. 
-  * [katex](https://github.com/Khan/KaTeX)
-  * [math-ml](https://github.com/pshihn/math-ml), web components using simple CSS, early beta
 * editors (wysiwyg etc)
   * [mathlive](https://mathlive.io) 
   * [DraftJS MathJax Plugin](https://github.com/efloti/draft-js-mathjax-plugin)
@@ -49,30 +41,38 @@ Some tools around math on the web
 * TeX-like output (i.e., trying to be faithful to Appendix G, TeX book)
    * [MathJax](https://github.com/mathjax/mathjax)'s TeX input (direct successor of [jsmath](http://www.math.union.edu/~dpvc/jsMath/)).
    * [KaTeX](https://github.com/Khan/KaTeX/)
-* equation input convertors
-  * TeX-like input (i.e., trying to be faithful)
+* equation convertors (with repetitions)
+  * output: visual
+    * [MathJax](https://github.com/mathjax/mathjax)
+    * [jqmath](http://mathscribe.com/author/jqmath.html) 
+    * [mathquill](https://github.com/mathquill/mathquill)
+    * [fmath](http://www.fmath.info/)
+    * [mathematical](https://github.com/gjtorikian/mathematical) A wrapper around Lasem and mtex2MML to generate SVG, PNG, MathML. 
+    * [katex](https://github.com/Khan/KaTeX)
+    * [math-ml](https://github.com/pshihn/math-ml), web components using simple CSS, early beta
+  * input: TeX-like (i.e., trying to be faithful)
     * [MathJax](https://github.com/mathjax/mathjax)
     * [iTeX](https://golem.ph.utexas.edu/~distler/blog/itex2MMLcommands.html)
     * [mathquill](https://github.com/mathquill/mathquill)
     * [katex](https://github.com/Khan/KaTeX)
     * [latex2mathml](https://pypi.python.org/pypi/latex2mathml/1.0.10) (Python)
     * [fMath](http://fmath.info/)
-  * ascii/unicode-focused
+  * input: ascii/unicode-focused
     * [AsciiMathML](https://github.com/asciimath/asciimathml/)
       * [ascii2mathml](https://github.com/runarberg/ascii2mathml) 
       * [asciimath2tex](https://github.com/christianp/asciimath2tex)
     * [jqmath](http://mathscribe.com/author/jqmath.html)
     * [Microsoft Office linear format](https://support.office.com/en-us/article/Linear-format-equations-and-Math-AutoCorrect-in-Word-2E00618D-B1FD-49D8-8CB4-8D17F25754F8) (see also Murray Sargent's [blog post](http://blogs.msdn.com/b/murrays/archive/2006/09/13/752206.aspx) and [paper](http://www.unicode.org/notes/tn28/UTN28-PlainTextMath-v2.pdf))
     * [CoffeeTeX](https://github.com/kasperpeulen/CoffeeTeX)
-  * textual descriptions
+  * output: textual descriptions
     * [speech-rule-engine](https://github.com/zorkow/speech-rule-engine/) for MathML to textual descriptions 
       * also part of the [MathJax Accessibility Extensions](https://docs.mathjax.org/en/latest/options/extensions/a11y-extensions.html#a11y-extensions).
      * [Aster](https://github.com/tvraman/aster-math) (for TeX documents)
-  * Braille
+  * output: Braille
     * [speech-rule-engine](https://github.com/zorkow/speech-rule-engine/): MathML to Nemeth 
     * [MML2Nem](https://github.com/SusanJ/MML2Nem):  MathML to Nemeth (and back [Baknem](https://github.com/SusanJ/Baknem))
     * [mathml2braille](https://github.com/civodulab/mathml2braille) JS, converts MathML to fr, nemeth or ueb.
-* Unicode authoring
+* "Unicode authoring"
   * [tex-to-unicode browser extension](https://github.com/golopot/tex-to-unicode) (the underlying lib can be used separately)
   * [unicodeIt](https://github.com/svenkreiss/unicodeit)
 * little helpers
