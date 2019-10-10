@@ -17,11 +17,12 @@ Some tools around math on the web
   * [math-expressions](https://github.com/kisonecat/math-expressions) "Math-expressions is client- or server-side JavaScript library for parse expressions like `sin^2 (x^3)` and do some basic computer algebra with them, like symbolic differentiation and numerically identifying equivalent expressions."
   * [geometric](https://github.com/HarryStevens/geometric), "A JavaScript library for doing geometry." 
   * [TheoremJS](https://github.com/arguiot/TheoremJS), "A Math library for computation in JavaScript"
-* "equation" rendering on the web
+* visual equation rendering on the web
   * [MathJax](https://github.com/mathjax/mathjax)
   * [jqmath](http://mathscribe.com/author/jqmath.html) 
   * [mathquill](https://github.com/mathquill/mathquill)
   * [fmath](http://www.fmath.info/)
+  * [mathematical](https://github.com/gjtorikian/mathematical) A wrapper around Lasem and mtex2MML to generate SVG, PNG, MathML. 
   * [katex](https://github.com/Khan/KaTeX)
   * [math-ml](https://github.com/pshihn/math-ml), web components using simple CSS, early beta
 * editors (wysiwyg etc)
