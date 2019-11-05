@@ -112,3 +112,5 @@ Some tools around math on the web
   * [math-api](https://github.com/chialab/math-api) REST API based on mathjax-node (serverless, AWS-ready)
   * [mathjax-server](https://github.com/tiarno/mathjax-server) simple server front-end for mathjax-node
   * [pb-mathjax](https://github.com/pressbooks/pb-mathjax), <q>a replacement for https://wp.com/latex.php but instead of LaTeX, it uses MathJax</q>.
+* iOS, Android development
+  * [MathView](https://github.com/jianzhongli/MathView) third-party library for Android app development
