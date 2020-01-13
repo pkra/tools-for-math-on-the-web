@@ -64,6 +64,7 @@ Some tools around math on the web
     * [jqmath](http://mathscribe.com/author/jqmath.html)
     * [Microsoft Office linear format](https://support.office.com/en-us/article/Linear-format-equations-and-Math-AutoCorrect-in-Word-2E00618D-B1FD-49D8-8CB4-8D17F25754F8) (see also Murray Sargent's [blog post](http://blogs.msdn.com/b/murrays/archive/2006/09/13/752206.aspx) and [paper](http://www.unicode.org/notes/tn28/UTN28-PlainTextMath-v2.pdf))
     * [CoffeeTeX](https://github.com/kasperpeulen/CoffeeTeX)
+    * [mathup](https://github.com/runarberg/mathup) asciimath-like to MathML
   * output: textual descriptions
     * [speech-rule-engine](https://github.com/zorkow/speech-rule-engine/) for MathML to textual descriptions 
       * also part of the [MathJax Accessibility Extensions](https://docs.mathjax.org/en/latest/options/extensions/a11y-extensions.html#a11y-extensions).
