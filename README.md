@@ -11,6 +11,8 @@ Some tools around math on the web
   * [MathLib](https://github.com/alawatthe/MathLib)
   * [algebra.js](https://github.com/nicolewhite/algebra.js) Build&solve algebraic equations; includes LaTeX-like output to pass to renderer.
   * [algebrite](https://github.com/davidedc/Algebrite), CAS in JS
+  * [KAS](https://github.com/Khan/KAS) "lightweight JavaScript CAS"
+   * [Polynomial.js](https://github.com/infusion/Polynomial.js) "A JavaScript library to work with polynomials"
   * [simple-statistics](https://github.com/simple-statistics/simple-statistics), statistics in JS
   * [stdlib](https://github.com/stdlib-js/stdlib) "stdlib is a standard library for JavaScript and Node.js, with an emphasis on numerical and scientific computing applications." 
   * [propelML](http://propelml.org/) "Propel provides a GPU-backed numpy-like infrastructure for scientific computing in JavaScript."
