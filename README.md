@@ -104,7 +104,7 @@ Some tools around math on the web
   * [Seshat](https://github.com/falvaro/seshat) Handwritten math expression parser
   * [MyScript Web Equation](http://webdemo.myscript.com/#/demo/equation), using handwriting recognition, LaTeX, MathML output as well as Desmos and Wolfram Alpha integration. The technology can be integrated into iOS and Android apps, see [1](https://itunes.apple.com/app/myscript-mathpad/id674996719), [2](https://itunes.apple.com/us/app/math-ink/id596393352). 
 * fringe tools 
-  * [pseudocode.js](https://github.com/tatetian/pseudocode.js), a JS library similar to the TeX package [algorithms](https://ctan.org/pkg/algorithms)  
+  * [pseudocode.js](https://github.com/tatetian/pseudocode.js), a JS library similar to the TeX package [algorithms](https://ctan.org/pkg/algorithms), compatible with KaTeX and MathJax (both v2 and v3)
 * not-actually-web tools
   * [iosMath](https://github.com/kostub/iosMath) TeX equation renderer for iOS and MacOS.
   * [CSharpMath](https://github.com/verybadcat/CSharpMath) C# port of iosMath.
