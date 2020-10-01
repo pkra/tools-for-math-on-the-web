@@ -19,6 +19,7 @@ Some tools around math on the web
   * [math-expressions](https://github.com/kisonecat/math-expressions) "Math-expressions is client- or server-side JavaScript library for parse expressions like `sin^2 (x^3)` and do some basic computer algebra with them, like symbolic differentiation and numerically identifying equivalent expressions."
   * [geometric](https://github.com/HarryStevens/geometric), "A JavaScript library for doing geometry." 
   * [TheoremJS](https://github.com/arguiot/TheoremJS), "A Math library for computation in JavaScript"
+  * [math-pro](https://pro-js.github.io/math-pro-site/), "A math library to make life easier and save time."
 * editors (wysiwyg etc)
   * [mathlive](https://mathlive.io) 
   * [DraftJS MathJax Plugin](https://github.com/efloti/draft-js-mathjax-plugin)
