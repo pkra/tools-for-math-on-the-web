@@ -117,3 +117,7 @@ Some tools around math on the web
   * [pb-mathjax](https://github.com/pressbooks/pb-mathjax), <q>a replacement for https://wp.com/latex.php but instead of LaTeX, it uses MathJax</q>.
 * iOS, Android development
   * [MathView](https://github.com/jianzhongli/MathView) third-party library for Android app development
+* LMS, Assessment etc
+  * [Numbas](https://www.numbas.org.uk/) ([github](https://github.com/numbas/Numbas/)) Really versatile maths e-assessment. 
+  * [IMathAS](https://github.com/drlippman/IMathAS) An Internet Mathematics Assessment System.
+  * [WeBWork](https://webwork.maa.org/wiki/WeBWorK_Main_Page) ([github](https://github.com/openwebwork))
