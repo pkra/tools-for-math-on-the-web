@@ -121,3 +121,5 @@ Some tools around math on the web
   * [Numbas](https://www.numbas.org.uk/) ([github](https://github.com/numbas/Numbas/)) Really versatile maths e-assessment. 
   * [IMathAS](https://github.com/drlippman/IMathAS) An Internet Mathematics Assessment System.
   * [WeBWork](https://webwork.maa.org/wiki/WeBWorK_Main_Page) ([github](https://github.com/openwebwork))
+* physical world
+  * [paper plotter](https://felixboiii.github.io/paper-plotter/) 3D plots out of paper (take a function, generates PDF for stackable printout)      
