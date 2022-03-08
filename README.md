@@ -75,6 +75,7 @@ Some tools around math on the web
     * [speech-rule-engine](https://github.com/zorkow/speech-rule-engine/): MathML to Nemeth 
     * [MML2Nem](https://github.com/SusanJ/MML2Nem):  MathML to Nemeth (and back [Baknem](https://github.com/SusanJ/Baknem))
     * [mathml2braille](https://github.com/civodulab/mathml2braille) JS, converts MathML to fr, nemeth or ueb.
+    * [mathml2asciimath](https://github.com/learningobjectsinc/mathml-to-asciimath) JS, converts a subset of MathML to asciimath
 * "Unicode authoring"
   * [tex-to-unicode browser extension](https://github.com/golopot/tex-to-unicode) (the underlying lib can be used separately)
   * [unicodeIt](https://github.com/svenkreiss/unicodeit)
