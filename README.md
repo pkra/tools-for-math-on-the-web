@@ -97,6 +97,7 @@ Some tools around math on the web
   * [tikzcd-editor](https://github.com/yishn/tikzcd-editor) visual editor for tikzcd.
   * [tikzjax](https://github.com/kisonecat/tikzjax) TikZ running under WebAssembly in the browser
   * [Descartes](https://github.com/arguiot/Descartes), "A small plotting JavaScript library, made for TheoremJS"
+  * [Penrose](https://penrose.cs.cmu.edu/), "Create beautiful diagrams,  just by typing notation in plain text."
 * document editors with strong math focus
   * [OERpub editor](http://oerpub.github.io/Aloha-Editor/) open source, Aloha-plugin, not quite wysiwyg, supported by OERpub, ConneXions and others.
   * [StackEdit](https://stackedit.io) In-browser Markdown Editor, with complete MathJax support.
